@@ -12,6 +12,13 @@ https://ddanilov.me/dockerized-cpp-build
 https://github.com/dockersamples/c-plus-plus-docker
 https://github.com/mostsignificant/simplehttpserver/blob/main/Dockerfile
 
+https://markus-x-buchholz.medium.com/docker-container-networking-c-client-server-app-e9750f003f8
+https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa/
+https://forums.docker.com/t/how-can-i-make-my-local-client-server-application-communicate-on-a-local-socket-using-docker-compose/147229
+https://github.com/dfollereau/clntserver
+https://medium.com/better-programming/dockerizing-multiple-services-inside-a-single-container-96cdff286cef
+https://iceoryx.io/v2.0.5/examples/icedocker/
+
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y ca-certificates curl gnupg
